@@ -1,2 +1,2 @@
-# tele-grow
+# GrowBot
 Serra automatica, growbox con arduino
